@@ -1,4 +1,4 @@
-# Kmer counting using parallel computation.
+# Parallelization of Kmer Counting.
 
 Hi there! With this badass code you can utilize all the cores on your system to count the occourance of kmers in a fasta file.
 
